@@ -58,7 +58,6 @@ Financial institutions face **significant risks** due to loan defaults. Accurate
 - Evaluated multiple models using **cross-validation**:
   - Logistic Regression
   - Random Forest
-  - XGBoost
 
 ---
 
